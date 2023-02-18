@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ImageResizer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ImageResizer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
